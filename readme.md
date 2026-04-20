@@ -83,30 +83,6 @@ This project demonstrates a complete speech pipeline for code-switched input usi
 ---
 
 ## 👤 Author
-Your Name
-Roll Number
+Your Name: Shubham Verma
+Roll Number: M25DE1007
 """
-
-# ================= requirements.txt =================
-requirements = """librosa
-numpy
-matplotlib
-jiwer
-dtw-python
-soundfile
-g2p_en
-openai-whisper
-scikit-learn
-scipy
-nltk
-torch
-"""
-
-# ================= SAVE FILES =================
-with open("README.md", "w") as f:
-    f.write(readme)
-
-with open("requirements.txt", "w") as f:
-    f.write(requirements)
-
-print("README.md and requirements.txt created successfully!")
