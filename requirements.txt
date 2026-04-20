@@ -1,0 +1,12 @@
+librosa
+numpy
+matplotlib
+jiwer
+dtw-python
+soundfile
+g2p_en
+openai-whisper
+scikit-learn
+scipy
+nltk
+torch
